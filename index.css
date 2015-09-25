@@ -1,0 +1,103 @@
+#header {
+	font-family: Garamond,serif;
+	background-color:#d3ffce;
+	float: left;
+	width: 816px;
+	display: inline-block;
+	margin-bottom: 20px;
+	padding-left: 20px
+}
+
+#name {
+	font-size: 2em;
+	border-bottom: 4px solid black;
+	width: 500px;
+}
+
+#contact {
+	font-size: 1em;
+	float: left;
+	margin-top: -30px;
+}
+
+#intro {
+	float: left;
+	font-size: 1em;
+	width: 500px;
+	font-family: Times,serif;
+}
+
+img {
+	float: right;
+	padding-right: 20px;
+}
+
+#info {
+	clear: both;
+	font-family: Verdana,sans-serif;
+	font-size: 1em;
+}
+
+#full {
+	background-color:#ffffff;
+	width: 816px;
+	height: 1056px;
+	padding: 20px;
+	border: 1px solid black;
+}
+
+span {
+	color: #999999;
+}
+
+.cathd {
+	font-family: Courier,monospace;
+	font-size: 1em;
+	color: #fe7373;
+	width: 150px;
+	float: left;
+	border-right: 4px dotted gray;
+	text-align: right;
+	padding-right: 12px;
+	margin-top: 20px;
+}
+
+.catbd {
+	font-family: "Lucida Grande",sans-serif;
+	display: inline;
+	width: 600px;
+	float: right;
+}
+
+#edu {
+	position: absolute;
+}
+
+#ski {
+	margin-top: 130px;
+}
+
+#exp {
+	margin-top: 70px;
+}
+
+#hob {
+	margin-top: 25px;
+}
+
+#ref {
+	position: absolute;
+	margin-top: 425px;
+}
+
+#refbd {
+	margin-top: 10px;
+}
+
+#e {
+	text-decoration: underline;
+}
+
+#r {
+	float: right;
+}
