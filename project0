@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>My Resume</title>
+		<link type="text/css"; rel="stylesheet"; href="resumestyle.css"/>
+	</head>
+	
+	<body>
+		<div id="full">
+		<div id="header">
+			<img src="http://static1.squarespace.com/static/53645c98e4b0bdfec6a6202f/t/5384dd75e4b0ba5104451e1c/1401216373581/"/>
+			<h2 id="name">Neelam Samtani</h3>
+			<div id="contact">
+				<h4>Cell: (876) 401-5725 </br> Email: <span id="e">neelamsamtani@outlook.com</span></h4>
+			</div>
+			<p id="intro"><em>I am a diligent, hardworking professional, hoping to find a career that fits my qualifications. I am reserved, but when required I can be very personable. I work well with deadlines and problem solving. I intend to bring excellence to your organization.</em></p>
+		<!--</div>
+		<div id="pic">-->
+		</div>
+		<div id="info">
+			<div class="cat">
+				<div class= "cathd"; id="edu">
+					<h4><em>Education</em></h4>
+				</div>
+				<div class= "catbd">
+					<h3>University of the West Indies - WJC</h3>
+					<p><strong>Major:</strong> Information Technology </br> <strong>Minor: </strong>None</p>
+				</div>
+			</div>
+			<div class="cat">
+				<div class= "cathd"; id="ski">
+					<h4><em>Skills</em></h4>
+				</div>
+				<div class= "catbd">
+					<p><strong>Computer Skills</strong></br>Eficciency in Microsoft software, proficient in Java, Python and learning HTML languages, learning Adobe Photoshop.</p>
+					<p><strong>Office Skills</strong></br>Basic accounting and management understanding, database administraion , etc.</p>
+				</div>
+			</div>
+			<div class="cat">
+				<div class= "cathd"; id="exp">
+					<h4><em>Experience</em></h4>
+				</div>
+				<div class= "catbd">
+					<p><strong>Bamboo Blu Restaurant</strong> <em><span id="r">Purchasing Manager, 2015</span></em></p>
+					<ul>
+						<li>Helped computerize inventory.</li>
+					</ul>
+				</div>
+			</div>
+			<div class="cat">
+				<div class= "cathd"; id="hob">
+					<h4><em>Hobbies</em></h4>
+				</div>
+				<div class= "catbd">
+					<p>I have many hobbies, including reading, watching tv shows and teaching myself how to use photoshop.</p>
+				</div>
+			</div>
+			<div class="cat">
+				<div class= "cathd"; id="ref">
+					<h4><em>References</em></h4>
+				</div>
+				<div class= "catbd"; id="refbd">
+					<p>Available on request.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	</body>
+</html>
